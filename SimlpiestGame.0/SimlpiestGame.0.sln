@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimlpiestGame.0", "SimlpiestGame.0\SimlpiestGame.0.csproj", "{2B0012F5-3F22-45E4-AFF2-921A637AB682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestList", "TestList\TestList.csproj", "{F591609A-F0DC-4036-81DE-606F7518A8EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B0012F5-3F22-45E4-AFF2-921A637AB682}.Debug|x86.ActiveCfg = Debug|x86
+		{2B0012F5-3F22-45E4-AFF2-921A637AB682}.Debug|x86.Build.0 = Debug|x86
+		{2B0012F5-3F22-45E4-AFF2-921A637AB682}.Release|x86.ActiveCfg = Release|x86
+		{2B0012F5-3F22-45E4-AFF2-921A637AB682}.Release|x86.Build.0 = Release|x86
+		{F591609A-F0DC-4036-81DE-606F7518A8EC}.Debug|x86.ActiveCfg = Debug|x86
+		{F591609A-F0DC-4036-81DE-606F7518A8EC}.Debug|x86.Build.0 = Debug|x86
+		{F591609A-F0DC-4036-81DE-606F7518A8EC}.Release|x86.ActiveCfg = Release|x86
+		{F591609A-F0DC-4036-81DE-606F7518A8EC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
